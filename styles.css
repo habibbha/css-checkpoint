@@ -1,0 +1,53 @@
+.Welcome {
+    background-color: tomato;
+    color:black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+.History { 
+    border-style: dotted;
+    color: aqua;
+    background-color: brown;
+    margin: 40 px;
+    padding: 30 px;
+
+}
+.Symbol {
+    border-style: dotted;
+    color: aqua;
+    background-color:red;
+    margin: 40 px;
+    padding: 30 px;
+}
+.picture {
+    text-align: center;
+
+}
+ nav {
+    position: sticky;
+    top: 0%;
+    width: 100%;
+    background-color: cornflowerblue;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: uppercase;
+    /* border-radius: 3px; */
+    display: inline;
+    
+
+}
+a{
+    margin-left: 50px;
+}
+
+body {
+    background: linear-gradient(60deg,rgb(255,50,0),rgb(0,50,255));
+
+    }
+.picture .foto{
+    border: solid black 2px;
+  margin-left: ;
+
+        
+}
